@@ -1,4 +1,25 @@
-﻿  Main.cpp
+﻿  LetterNode.cpp
+  LinkedList.cpp
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\linkedlist.cpp(28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
   WordSearch.cpp
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(99): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(99): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(113): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(113): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(143): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(143): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(203): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(203): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(233): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(233): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(263): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(263): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(293): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(293): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(323): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jake\desktop\unistuff\old\acw\acw_wordsearch\wordsearch.cpp(323): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
   Generating Code...
-  ACW_WordSearch.vcxproj -> C:\Users\jake\Desktop\Advanced Programming\ACW\x64\Debug\ACW_WordSearch.exe
+  ACW_WordSearch.vcxproj -> C:\Users\jake\Desktop\Unistuff\Old\ACW\x64\Debug\ACW_WordSearch.exe

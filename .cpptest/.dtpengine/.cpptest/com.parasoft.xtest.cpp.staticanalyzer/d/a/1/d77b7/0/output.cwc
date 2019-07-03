@@ -1,0 +1,240 @@
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LinkedList.h
+<c>MRM-49
+<b>Class 'LinkedList' shall declare a copy assignment operator
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LinkedList.h
+<c>MRM-49
+<b>Class 'LinkedList' shall declare a copy constructor
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LinkedList.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pHeadNode' as const
+<l>56
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LinkedList.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pCheckNode' as const
+<l>64
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LinkedList.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pCurrentNode' as const
+<l>72
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>MRM-49
+<b>Class 'LetterNode' shall declare a copy assignment operator
+<l>4
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>MRM-49
+<b>Class 'LetterNode' shall declare a copy constructor
+<l>4
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-81
+<b>LetterNode: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>4
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pRight' in 'setRight' function as reference to const object
+<l>102
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pRight' as const
+<l>102
+<k>47
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pTopRight' in 'setTopRight' function as reference to const object
+<l>106
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pTopRight' as const
+<l>106
+<k>50
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pTop' in 'setTop' function as reference to const object
+<l>110
+<k>45
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pTop' as const
+<l>110
+<k>45
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pTopLeft' in 'setTopLeft' function as reference to const object
+<l>114
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pTopLeft' as const
+<l>114
+<k>49
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pLeft' in 'setLeft' function as reference to const object
+<l>118
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pLeft' as const
+<l>118
+<k>46
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pBottomLeft' in 'setBottomLeft' function as reference to const object
+<l>122
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pBottomLeft' as const
+<l>122
+<k>52
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pBottom' in 'setBottom' function as reference to const object
+<l>126
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pBottom' as const
+<l>126
+<k>48
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-43
+<b>Declare parameter 'pBottomRight' in 'setBottomRight' function as reference to const object
+<l>130
+<k>53
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>c:\users\528121\documents\acw\acw_wordsearch\LetterNode.h
+<c>CODSTA-CPP-53
+<b>Declare parameter 'pBottomRight' as const
+<l>130
+<k>53
+<s>false
+<N>
+<f>
+<L>0
